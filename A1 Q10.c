@@ -1,13 +1,11 @@
-int funcT(int x, int y, int input) {
-
-}
+int funcT(int x, int y, int input);
 
 
 
 int main () {
 
 
-
+    print("hhhhhh");
     return 0;
 }
 
